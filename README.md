@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imani2004
+- 👋 Hi, I’m Dorna 
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...Mathematics and computer science
 - 💞️ I’m looking to collaborate on ...
