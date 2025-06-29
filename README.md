@@ -1,37 +1,78 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dorna Imani
-===================================================================================================================================
+<h1 align="center">Hi there, I'm Dorna Imani 👋</h1>
 
-Junior Frontend and UI/UX Developer
------------------------------------
-
-I'm an undergraduate Computer Science passionate about art and technology. Tech to the world!
-
-* 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [dorna.imani943@gmail.com](mailto:dorna.imani943@gmail.com)
-* 🤝  I'm open to collaborating on Web development projects and UI/UX projects
-* ⚡  I'm secretly wonder woman.....but don't tell anyone
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
+<p align="center">
+  <em>A passionate Frontend Developer & UI/UX Enthusiast ✨ | ALX ProDev Learner 🚀</em>
 </p>
 
+---
 
-### Socials
+### 🎨 About Me
 
-<p align="left"> <a href="https://www.codepen.io/Dorna-Imani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/D-imani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ch_imani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dorna-imani-2276b8238" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+🌱 I started my journey in **Software Engineering** driven by my deep love for **creativity, design, and art**.  
+💡 I believe **technology is a powerful canvas**—I want to build intuitive, accessible, and beautiful digital experiences.  
+🛠️ Currently sharpening my skills through the **ALX ProDev Frontend Program**, learning best practices in **HTML, CSS, JavaScript, React**, and more.  
+🎯 My goal is to build **visually appealing and functional** web & mobile apps, and contribute to meaningful projects.
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 💼 What I Do
 
-<a href="http://www.github.com/D-imani"><img src="https://github-readme-stats.vercel.app/api?username=D-imani&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="D-imani's GitHub stats" /></a>
+- 💻 Frontend Development using HTML, CSS, JavaScript, and React  
+- 🎨 UI/UX Design (Wireframes, Prototyping, Accessibility)  
+- 🧰 Creative Problem-Solving with a user-first approach  
+- 📝 Learning, collaborating and growing as a developer every day
 
-<a href="http://www.github.com/D-imani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=D-imani&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/D-imani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-imani&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📂 Projects
+
+Here are some highlights from my GitHub (✨coming soon/actively building):
+
+- 🔗 [Portfolio Website](#) – Personal website built with React and styled-components
+- 📝 [UI Challenge Series](#) – Collection of UI design challenges
+- 📱 [Mobile App Concept](#) – Figma-to-React Native project in progress
+- 📦 [Open Source Contributions](#) – Learning to contribute and collaborate
+
+---
+
+### 🌱 Learning Goals (2025)
+
+- 🔸 Deepen my knowledge of **JavaScript ES6+**  
+- 🔸 Master **ReactJS** and explore **Next.js**  
+- 🔸 Build a complete **mobile-responsive portfolio**  
+- 🔸 Collaborate on real-world open source projects  
+- 🔸 Get an entry-level Frontend Developer job or internship  
+
+---
+
+### 📫 Let's Connect!
+
+<p>
+  <a href="mailto:dorna.imani943@gmail.com"><img src="https://img.shields.io/badge/Email-Dorna-blue?style=flat&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/dornaimani"><img src="https://img.shields.io/badge/LinkedIn-DornaImani-blue?style=flat&logo=linkedin" /></a>
+    <a href="https://twitter.com/Dikoffee"><img src="https://img.shields.io/badge/Twitter-@Dikoffee-blue?style=flat&logo=twitter" /></a>
+  <a href="https://github.com/D-imani"><img src="https://img.shields.io/badge/GitHub-@D-imani-black?style=flat&logo=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ “Design is not just what it looks like and feels like. Design is how it works.” – <em>Steve Jobs</em>
+</p>
+
 
 <!---
 imani2004/imani2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
